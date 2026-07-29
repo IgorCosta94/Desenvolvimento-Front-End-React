@@ -9,7 +9,7 @@ Este repositório reúne uma coleção de pequenos projetos desenvolvidos durant
 - Landing pages e interfaces voltadas para turismo, tecnologia e experiência de usuário.
 - Exercícios de lógica e componentes visuais, incluindo tabuada, formulário e tela de login.
 
-## Destaques do repositório
+## Destaques do  repositório
 
 - Fokus: uma aplicação de foco com temporizador, música e lista de tarefas.
 - Memoteca: um projeto para cadastrar, editar e excluir pensamentos.
