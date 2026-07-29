@@ -1,6 +1,8 @@
 # Repositório de projetos front-end
-
+---
 Este repositório reúne uma coleção de pequenos projetos desenvolvidos durante o curso desenvolvimento front-end React da Alura. A ideia é guardar, em um só lugar, experiências com HTML, CSS, JavaScript, React e interfaces mais completas.
+---
+🔗 **Acesse a página publicada:** (https://igorcosta94.github.io/vulkan/)
 
 ## O que você encontra aqui
 
@@ -8,6 +10,7 @@ Este repositório reúne uma coleção de pequenos projetos desenvolvidos durant
 - Pequenas aplicações com operações CRUD, para praticar interação com dados e formulários.
 - Landing pages e interfaces voltadas para turismo, tecnologia e experiência de usuário.
 - Exercícios de lógica e componentes visuais, incluindo tabuada, formulário e tela de login.
+  
 ## Destaques
 - Fokus: uma aplicação de foco com temporizador, música e lista de tarefas.
 - Memoteca: um projeto para cadastrar, editar e excluir pensamentos.
