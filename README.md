@@ -1,18 +1,59 @@
-# Repositório de projetos front-end 
---- Este repositório reúne uma coleção de pequenos projetos desenvolvidos durante o curso desenvolvimento front-end React da Alura. A ideia é guardar, em um só lugar, experiências com HTML, CSS, JavaScript, React e interfaces mais completas. 
---- 🔗 **Acesse a página publicada:** (https://igorcosta94.github.io/vulkan/) 
-## O que você encontra aqui 
-- Projetos de foco e produtividade, como um timer com modos de estudo e descanso.
-- Pequenas aplicações com operações CRUD, para praticar interação com dados e formulários.
-- Landing pages e interfaces voltadas para turismo, tecnologia e experiência de usuário.
-- Exercícios de lógica e componentes visuais, incluindo tabuada, formulário e tela de login. 
-## Destaques 
-- Fokus: uma aplicação de foco com temporizador, música e lista de tarefas.
-- - Memoteca: um projeto para cadastrar, editar e excluir pensamentos.
-  - - Jornada Viagens: uma landing page de agência de viagens com foco em visual e navegação.
-    - - Culturama: um formulário detalhado com vários campos e fluxo de confirmação.
-      - - Tabuada: uma prática simples de JavaScript para gerar conteúdo dinâmico.
-        - - Tecboard: um painel de eventos com React e Vite.
-          - - Tela de Login: uma interface estilizada para autenticação.
-  ## Como explorar
-  Cada pasta representa um projeto diferente. Para facilitar a navegação, também criei versões personalizadas de README em uma pasta separada, disponíveis para download.
+# 🚀 Repositório de Projetos Front-end
+
+Bem-vindo! 👋
+
+Este repositório reúne uma coleção de projetos desenvolvidos durante o curso **Desenvolvimento Front-end com React** da **Alura**.
+
+O objetivo é centralizar os exercícios e aplicações criados ao longo da formação, registrando a evolução dos estudos em **HTML**, **CSS**, **JavaScript**, **React** e no desenvolvimento de interfaces modernas.
+
+## 🌐 Acesse o projeto publicado
+
+🔗 **GitHub Pages:**
+https://igorcosta94.github.io/vulkan/
+
+---
+
+## 📚 O que você encontrará aqui
+
+* ⏱️ Aplicações de foco e produtividade, como temporizadores para estudo e descanso.
+* 📝 Projetos com operações **CRUD**, explorando formulários e manipulação de dados.
+* 🌍 Landing pages com foco em turismo, tecnologia e experiência do usuário.
+* 💻 Exercícios práticos de lógica de programação e componentes visuais.
+
+---
+
+## ⭐ Projetos em destaque
+
+* **Fokus** – Aplicação de produtividade com temporizador, músicas e lista de tarefas.
+* **Memoteca** – Sistema para cadastrar, editar e excluir pensamentos utilizando operações CRUD.
+* **Jornada Viagens** – Landing page de uma agência de viagens com design moderno e navegação intuitiva.
+* **Culturama** – Projeto com formulário completo, diversos componentes e fluxo de confirmação.
+* **Tabuada** – Exercício em JavaScript para geração dinâmica de conteúdo.
+* **TecBoard** – Painel de eventos desenvolvido com **React** e **Vite**.
+* **Tela de Login** – Interface moderna para autenticação de usuários.
+
+---
+
+## 📁 Organização do repositório
+
+Cada pasta corresponde a um projeto independente.
+
+Além disso, foi criada uma pasta contendo versões personalizadas dos arquivos **README.md**, facilitando a documentação e a reutilização em outros repositórios.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Vite
+* Git
+* GitHub
+
+---
+
+## 🎯 Objetivo
+
+Este repositório funciona como um portfólio de estudos, reunindo projetos desenvolvidos durante a formação da Alura e demonstrando a evolução prática em desenvolvimento Front-end.
