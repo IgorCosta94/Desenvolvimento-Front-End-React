@@ -8,9 +8,7 @@ Este repositório reúne uma coleção de pequenos projetos desenvolvidos durant
 - Pequenas aplicações com operações CRUD, para praticar interação com dados e formulários.
 - Landing pages e interfaces voltadas para turismo, tecnologia e experiência de usuário.
 - Exercícios de lógica e componentes visuais, incluindo tabuada, formulário e tela de login.
-
 ## Destaques
-
 - Fokus: uma aplicação de foco com temporizador, música e lista de tarefas.
 - Memoteca: um projeto para cadastrar, editar e excluir pensamentos.
 - Jornada Viagens: uma landing page de agência de viagens com foco em visual e navegação.
